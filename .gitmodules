@@ -1,0 +1,9 @@
+[submodule "railsblocks-api"]
+	path = railsblocks-api
+	url = git@github.com:railsblocks/railsblocks-api.git
+[submodule "railsblocks-web"]
+	path = railsblocks-web
+	url = git@github.com:railsblocks/railsblocks-web.git
+[submodule "railsblocks-web-tenant"]
+	path = railsblocks-web-tenant
+	url = git@github.com:railsblocks/railsblocks-web-tenant.git
